@@ -95,5 +95,9 @@ This tool is designed to support restaurant managers, analysts, and decision-mak
 - **Strategic Value**:  
   Empowers the business to refine pricing, optimize inventory levels, and enhance menu offerings using data-backed decisions.
 
-### Screenshots 
+## 📂Screenshot
+
+
+
+![Dashboard](https://github.com/RishavKumar26/Pizza_Sales_Dashboard/blob/main/Pizza_Sales_Dashboard_scrshot.png)
 
