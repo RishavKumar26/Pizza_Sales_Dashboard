@@ -95,3 +95,5 @@ This tool is designed to support restaurant managers, analysts, and decision-mak
 - **Strategic Value**:  
   Empowers the business to refine pricing, optimize inventory levels, and enhance menu offerings using data-backed decisions.
 
+### Screenshots 
+
